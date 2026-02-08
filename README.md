@@ -1,4 +1,4 @@
-# AI-for-Food-Science
+# AI for Food Science
 
 This repository provides a **practical, food-science-oriented roadmap** for building AI models in food research, based on a recent comprehensive review published in *Food Chemistry*.
 
@@ -98,5 +98,15 @@ If you find this roadmap useful, please check the original publication and cite 
 **Food Chemistry**, Volume 499, 2026, 147281  
 DOI: https://doi.org/10.1016/j.foodchem.2026.147281  
 
-Mendeley record:  
+**Add to your Mendeley:**  
 https://www.mendeley.com/catalogue/2d6c1dcf-c58c-32de-b078-05095df1a5ed/
+
+
+## Scope of This Repository
+
+This repository intentionally contains **no code**.
+
+Its goal is to:
+- Clarify methodological principles  
+- Promote responsible and reproducible AI in food science  
+- Serve as a reference entry point for the field
