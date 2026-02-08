@@ -21,6 +21,8 @@ These challenges mean that off-the-shelf AI pipelines rarely work well without a
 ⸻
 
 A Practical Roadmap: Data, Algorithms, and Applications
+<img width="1558" height="904" alt="image" src="https://github.com/user-attachments/assets/33963ab4-ef5d-4096-b21d-65c9f8eb23bf" />
+
 
 1. Data: The Foundation of Food AI
 
@@ -43,6 +45,8 @@ Rather than chasing the latest models, food scientists should focus on:
 	•	Model validation, generalization, and interpretability
 
 In many food applications, simple, well-validated models outperform complex ones.
+<img width="1402" height="1514" alt="image" src="https://github.com/user-attachments/assets/1c88f827-b193-4fdf-b41d-97c1bb353432" />
+
 
 ⸻
 
@@ -57,6 +61,11 @@ AI can support food science across multiple domains:
 The goal is not automation for its own sake, but scientifically grounded and interpretable decision support.
 
 ⸻
+Building on the three pillars outlined in this perspective, we propose a practical checklist to help food scientists plan, develop, evaluate, and deploy AI models (Fig. 3). The first two steps, including curating highquality, standardized datasets (Point 1) and investing in algorithmic study beyond plug-and-play models (Point 2), are critical for model development and scientific discovery, ensuring that the AI systems are trained on robust data and make use of domain-aware methods rather than generic black boxes.
+The next pair, enabling transparency and reproducibility through open-science practices (Point 3) and validating models in laboratory and real-world settings (Point 4), is essential for reusable and translational research, supporting the sound applications. Finally, embedding AI into scalable workflows (Point 5) and designing adaptive systems that learn from evolving data (Point 6) are crucial for industrial deployment and continuous improvement, allowing predic-tive models to be integrated with automation systems while remaining responsive to changing food ingredients, processing environments, and consumer demands.
+
+<img width="1462" height="796" alt="image" src="https://github.com/user-attachments/assets/e9599f56-8fa8-4ce3-add2-9fed7cc4d0de" />
+
 
 Reference
 
@@ -66,5 +75,7 @@ Zhang, D.
 Practical guide for food scientists to build AI: data, algorithms, and applications
 Food Chemistry, Volume 499, 2026, 147281
 DOI: https://doi.org/10.1016/j.foodchem.2026.147281
+https://www.mendeley.com/catalogue/2d6c1dcf-c58c-32de-b078-05095df1a5ed/
+
 
 ⸻
