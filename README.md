@@ -41,6 +41,8 @@ Key considerations include:
 
 Good models start with **good food data**, not just more data.
 
+<img width="1402" height="1514" alt="Algorithmic considerations for food AI" src="https://github.com/user-attachments/assets/1c88f827-b193-4fdf-b41d-97c1bb353432" />
+
 ---
 
 ## 2. Algorithms: Choosing the Right Tools
@@ -53,8 +55,6 @@ Rather than chasing the latest models, food scientists should focus on:
 - Model validation, generalization, and interpretability  
 
 In many food applications, **simple, well-validated models outperform complex ones**.
-
-<img width="1402" height="1514" alt="Algorithmic considerations for food AI" src="https://github.com/user-attachments/assets/1c88f827-b193-4fdf-b41d-97c1bb353432" />
 
 ---
 
